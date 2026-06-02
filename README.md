@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on my undergraduate dissertation using multimodal ai to analyse protein-ligand binding<br>🌱 learning agentic workflows<br>👨‍💻 actively looking for industrial placements or graduate roles
+🔭 currently working on my undergraduate dissertation using multimodal ai to analyse protein-ligand binding<br>🌱 learning agentic workflows<br>👨‍💻 incoming swe at arm
 
 
 ## 🌐 Socials:
